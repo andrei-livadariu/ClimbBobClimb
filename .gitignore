@@ -14,17 +14,17 @@ obj/
 !Library/unity default resources
 !Library/unity editor resources
  
-/Project/Project.userprefs
-/Project/Assembly-CSharp.csproj
-/Project/Assembly-CSharp.pidb
-/Project/Assembly-CSharp-Editor.csproj
-/Project/Assembly-CSharp-Editor.pidb
-/Project/Assembly-CSharp-Editor-vs.csproj
-/Project/Assembly-CSharp-firstpass.csproj
-/Project/Assembly-CSharp-firstpass.pidb
-/Project/Assembly-CSharp-firstpass-vs.csproj
-/Project/Assembly-CSharp-vs.csproj
-/Project/Assembly-UnityScript-firstpass.pidb
-/Project/Assembly-UnityScript-firstpass.unityproj
-/Project/Assembly-UnityScript-firstpass-vs.unityproj
-/Project/Project.suo
+/Code/Project.userprefs
+/Code/Assembly-CSharp.csproj
+/Code/Assembly-CSharp.pidb
+/Code/Assembly-CSharp-Editor.csproj
+/Code/Assembly-CSharp-Editor.pidb
+/Code/Assembly-CSharp-Editor-vs.csproj
+/Code/Assembly-CSharp-firstpass.csproj
+/Code/Assembly-CSharp-firstpass.pidb
+/Code/Assembly-CSharp-firstpass-vs.csproj
+/Code/Assembly-CSharp-vs.csproj
+/Code/Assembly-UnityScript-firstpass.pidb
+/Code/Assembly-UnityScript-firstpass.unityproj
+/Code/Assembly-UnityScript-firstpass-vs.unityproj
+/Code/MiniJam.suo

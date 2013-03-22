@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlatformGenerator.cs">
+    <Files>
+      <File FileName="Assets\Playorz.cs" Line="75" Column="2" />
+      <File FileName="Assets\Platform.cs" Line="54" Column="42" />
+      <File FileName="Assets\PlatformGenerator.cs" Line="39" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
